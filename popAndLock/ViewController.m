@@ -63,6 +63,9 @@
 }
 - (IBAction)panning:(UIPanGestureRecognizer *)sender
 {
+    //remove the animations so as to not have any gittering effect when we pan and move the image.
+    [self.image pop_removeAllAnimations ];
+    
     
     UIGestureRecognizerState state = [sender state];
     if( state == UIGestureRecognizerStateBegan)
