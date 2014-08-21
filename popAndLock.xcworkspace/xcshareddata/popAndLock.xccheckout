@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F92C444D-1FA9-4E19-AEA1-55AD0C155CE2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>popAndLock</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>90FEC1EA1B0BA48BFFA0B6F6FBF363BA26DC7389</key>
+		<string>https://github.com/terminatorover/popExpt.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>popAndLock.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>90FEC1EA1B0BA48BFFA0B6F6FBF363BA26DC7389</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/terminatorover/popExpt.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>90FEC1EA1B0BA48BFFA0B6F6FBF363BA26DC7389</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>90FEC1EA1B0BA48BFFA0B6F6FBF363BA26DC7389</string>
+			<key>IDESourceControlWCCName</key>
+			<string>popAndLock</string>
+		</dict>
+	</array>
+</dict>
+</plist>
